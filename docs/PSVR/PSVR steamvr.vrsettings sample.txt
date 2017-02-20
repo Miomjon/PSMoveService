@@ -1,0 +1,9 @@
+{
+	"psmove_settings" : {
+		"psmove_filter_hmd_serial" : "xx:xx:xx:xx:xx:xx",
+		"use_orientation_in_alignemnent" : false
+	},
+	"steamvr" : {
+		"activateMultipleDrivers" : true
+	}
+}
